@@ -1,2 +1,1 @@
-# dictionnary
-C Basic Programming
+# dictionary
